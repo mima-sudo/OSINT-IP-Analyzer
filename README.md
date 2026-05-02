@@ -68,8 +68,9 @@ python OSINT_IP_Analyzer.py
 
 ## 🎥 Vidéo de démonstration
 
-👉 [📥 Télécharger la vidéo](Vidéo.rar)
+Cliquez ici pour télécharger la vidéo du projet :
 
+👉 [Télécharger la vidéo](Vidéo.rar)
 ---
 
 ## 📦 Requirements
